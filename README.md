@@ -6,7 +6,7 @@ numba.jit-powered Mandelbrot visualization. Zooming in/out and navigating around
 
 ## Copyright
 
-2017-2020 Denis Meyer
+2017-2023 Denis Meyer
 
 ## Prerequisites
 
