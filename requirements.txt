@@ -1,4 +1,4 @@
 matplotlib==3.6.3
 numpy==1.23.5
-pillow==9.4.0
+pillow==10.0.1
 numba==0.56.4
